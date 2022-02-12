@@ -1,4 +1,7 @@
-# Yoo! 👋
+# Yoo 👋🏻
+
+> I am a computer science student and will post all my lessons and scripts along with explanations!
+> If you need help or want to do a project with me contact me!
 
 <!--
 **AronkyDev/AronkyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
