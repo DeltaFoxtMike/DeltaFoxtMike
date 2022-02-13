@@ -23,21 +23,9 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 
 🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
 
-# My Specs
+## My Setup (incomplete):
 
-## Notebook Specs
-
-[MSI Notebook GE66](https://www.amazon.com/MSI-GE66-Raider-Gaming-Laptop/dp/B08Z7R21ZN/ref=sr_1_1?crid=1FZO63IIYLLTU&keywords=GE66+raider+2070&qid=1644713906&sprefix=ge66+raider+2070%2Caps%2C155&sr=8-1) with the following specifications:
-
-CPU: Intel Core i7-10875H
-
-VGA: RTX 2070
-
-RAM: 16GB DDR4 3200MHz
-
-SSD: M2 1TB
-
-## Desktop Setup (incomplete):
+[MSI Notebook GE66](https://www.amazon.com/MSI-GE66-Raider-Gaming-Laptop/dp/B08Z7R21ZN/ref=sr_1_1?crid=1FZO63IIYLLTU&keywords=GE66+raider+2070&qid=1644713906&sprefix=ge66+raider+2070%2Caps%2C155&sr=8-1)
 
 CPU: [Ryzen 7 3800X](https://www.amazon.com/AMD-Ryzen-3800X-16-Thread-Processor/dp/B07SXMZLPJ/ref=sr_1_1?crid=7OW9CNFG1FK&keywords=Ryzen%2B7%2B3800X&qid=1644713648&sprefix=ryzen%2B7%2B3800%2Caps%2C193&sr=8-1&th=1)
 
