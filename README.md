@@ -23,16 +23,6 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 
 🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
 
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-
-
-
-<!--END_SECTION:activity-->
-
 ## My Setup (incomplete):
 
 My Laptop: [MSI Notebook GE66](https://www.amazon.com/MSI-GE66-Raider-Gaming-Laptop/dp/B08Z7R21ZN/ref=sr_1_1?crid=1FZO63IIYLLTU&keywords=GE66+raider+2070&qid=1644713906&sprefix=ge66+raider+2070%2Caps%2C155&sr=8-1)
