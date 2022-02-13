@@ -1,4 +1,4 @@
-# Yoo 👋🏻
+# Yoo! Marco Here! 👋🏻
 
 > I am a computer science student and will post all my lessons and scripts along with explanations!
 > If you need help or want to do a project contact me!
