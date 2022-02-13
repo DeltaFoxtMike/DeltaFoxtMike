@@ -21,6 +21,10 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 
 🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
 
+🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
+
+🥽 For me the Metaverse is a big financial bubble!
+
 
 <!--
 **AronkyDev/AronkyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
