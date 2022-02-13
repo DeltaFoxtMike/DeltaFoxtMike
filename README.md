@@ -1,10 +1,5 @@
 # Yoo! Marco Here! 👋🏻
 
-<!--START_SECTION:activity-->
-
-
-
-
 > I am a computer science student and will post all my lessons and scripts along with explanations!
 > If you need help or want to do a project contact me!
 
@@ -27,6 +22,16 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
 
 🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+
+
+
+<!--END_SECTION:activity-->
 
 ## My Setup (incomplete):
 
