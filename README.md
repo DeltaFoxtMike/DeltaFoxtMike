@@ -12,8 +12,11 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 ## Quick facts
 
 🔫 Secretly I would like to work on a military project.
+
 😑 I like math, even if the school system in Italy manages to make everyone hate it.
+
 👯‍♂️ I work with a group of guys, together we have created a company called **''Aronky Development!''**
+
 🛫 I love aviation and would like to take the Private Pilot License (PPL)!
 
 
