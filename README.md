@@ -15,7 +15,7 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 
 😑 I like math, even if the school system in Italy manages to make everyone hate it.
 
-👯‍♂️ I work with a [group of guys](https://github.com/hemeraleback), together we have created a company called **Aronky Development!**
+👯‍♂️ I work with [IsTk0](https://github.com/IsTk0) and [Hemerale](https://github.com/hemeraleback), together we have created a company called **Aronky Development!**
 
 🛫 I love aviation and would like to take the [Private Pilot License (PPL)](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)!
 
