@@ -19,7 +19,7 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 
 🛫 I love aviation and would like to take the [Private Pilot License (PPL)](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)!
 
-🚗 I often listen to Phonk music, it should be more popular!
+🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
 
 
 <!--
