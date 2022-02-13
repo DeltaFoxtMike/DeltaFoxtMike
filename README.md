@@ -5,7 +5,7 @@
 
 ## About me
 
-![Discord](https://img.shields.io/badge/Your Space-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 I am a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), I am interested in Web Design but also in programming with C and its derivatives, I also do automatic [Forex Trading](https://en.wikipedia.org/wiki/Foreign_exchange_market) with Bots scripted in [MQL4](https://docs.mql4.com).
 
