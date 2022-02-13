@@ -14,19 +14,29 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 MSI Notebook GE66 with the following specifications:
 
 CPU: Intel Core i7-10875H
+
 VGA: RTX 2070
+
 RAM: 16GB DDR4 3200MHz
+
 SSD: M2 1TB
 
 Desktop Setup (incomplete):
 
 CPU: Ryzen 7 3800X
+
 MOBO: Asus TUF X570 Plus
+
 VGA: ~~RTX 3080~~ (When will I find it?)
+
 RAM: DDR4 32GB 3600MHz
+
 PSU: ASUS ROG THOR 850 W
+
 SSD: M2 1TB
+
 COOLER: NZXT KRAKEN X53
+
 CASE: LIAN LI LANCOOL
 
 ## Quick facts
