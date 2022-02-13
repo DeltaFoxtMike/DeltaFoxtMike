@@ -9,6 +9,20 @@ I am a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), I am
 
 On this profile I will post all the exercises we do at school (they are ✨ very simple ✨) and also my personal projects.
 
+## Quick facts
+
+🔫 Secretly I would like to work on a military project.
+
+😑 I like math, even if the school system in Italy manages to make everyone hate it.
+
+👯‍♂️ I work with a group of guys, together we have created a company called **Aronky Development!**
+
+🛫 I love aviation and would like to take the [Private Pilot License (PPL)](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)!
+
+🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
+
+🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
+
 ## Notebook Specs
 
 [MSI Notebook GE66](https://www.amazon.com/MSI-GE66-Raider-Gaming-Laptop/dp/B08Z7R21ZN/ref=sr_1_1?crid=1FZO63IIYLLTU&keywords=GE66+raider+2070&qid=1644713906&sprefix=ge66+raider+2070%2Caps%2C155&sr=8-1) with the following specifications:
@@ -38,22 +52,6 @@ SSD: [M2 1TB](https://www.amazon.com/SAMSUNG-MZ-V8V1T0B-AM-980-SSD/dp/B08V83JZH4
 COOLER: [NZXT KRAKEN X53](https://www.amazon.com/NZXT-Kraken-X53-240mm-RL-KRX53-01/dp/B082DYR131/ref=sr_1_2?crid=VOSDT2Y56F3E&keywords=NZXT+KRAKEN+X53&qid=1644713819&sprefix=nzxt+kraken+x53%2Caps%2C170&sr=8-2)
 
 CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/B08CSQPBFJ/ref=sr_1_1?crid=GKRDTCY1PBCM&keywords=LIAN%2BLI%2BLANCOOL&qid=1644713868&sprefix=%2Caps%2C160&sr=8-1&th=1)
-
-## Quick facts
-
-🔫 Secretly I would like to work on a military project.
-
-😑 I like math, even if the school system in Italy manages to make everyone hate it.
-
-👯‍♂️ I work with a group of guys, together we have created a company called **Aronky Development!**
-
-🛫 I love aviation and would like to take the [Private Pilot License (PPL)](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)!
-
-🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
-
-🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
-
-
 <!--
 **AronkyDev/AronkyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
