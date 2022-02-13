@@ -17,7 +17,9 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 
 👯‍♂️ I work with a group of guys, together we have created a company called **Aronky Development!**
 
-🛫 I love aviation and would like to take the Private Pilot License (PPL)!
+🛫 I love aviation and would like to take the [Private Pilot License (PPL)](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)!
+
+🚗 I love Phonk music, it should be more popular!
 
 
 <!--
