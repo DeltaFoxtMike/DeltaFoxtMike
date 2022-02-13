@@ -23,7 +23,7 @@ On this profile I will post all the exercises we do at school (they are ✨ very
 
 🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
