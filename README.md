@@ -9,7 +9,7 @@ I am a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), I am
 
 On this profile I will post all the exercises we do at school (they are ✨ very simple ✨) and also my personal projects.
 
-## PC Specs
+## Notebook Specs
 
 MSI Notebook GE66 with the following specifications:
 
@@ -21,7 +21,7 @@ RAM: 16GB DDR4 3200MHz
 
 SSD: M2 1TB
 
-Desktop Setup (incomplete):
+## Desktop Setup (incomplete):
 
 CPU: Ryzen 7 3800X
 
