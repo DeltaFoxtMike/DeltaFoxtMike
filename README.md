@@ -5,7 +5,7 @@
 
 ## About me
 
-I am a high school student in [Italy](https://it.wikipedia.org/wiki/Italia), I am interested in Web Design but also in programming with C and its derivatives, I also do automatic Forex Trading with Bots scripted in MQL4.
+I am a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), I am interested in Web Design but also in programming with C and its derivatives, I also do automatic [Forex Trading](https://en.wikipedia.org/wiki/Foreign_exchange_market) with Bots scripted in [MQL4](https://docs.mql4.com).
 
 On this profile I will post all the exercises we do at school (they are very simple) and also my personal projects.
 
