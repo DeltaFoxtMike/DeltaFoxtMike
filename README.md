@@ -9,20 +9,6 @@ I am a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), I am
 
 On this profile I will post all the [exercises](https://github.com/AronkyDev/School) we do at school (they are ✨ very simple ✨) and also my personal projects.
 
-## Quick facts 💣
-
-🔫 Secretly I would like to work on a military project.
-
-😑 I like math, even if the school system in Italy manages to make everyone hate it.
-
-👯‍♂️ I work with [IsTk0](https://github.com/IsTk0) and [Hemerale](https://github.com/hemeraleback), together we have created a company called **Aronky Development!**
-
-🛫 I love aviation and would like to take the [Private Pilot License (PPL)](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)!
-
-🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
-
-🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
-
 <details>
 <summary> 
 My Setup 🖥️
@@ -48,6 +34,21 @@ COOLER: [NZXT KRAKEN X53](https://www.amazon.com/NZXT-Kraken-X53-240mm-RL-KRX53-
 CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/B08CSQPBFJ/ref=sr_1_1?crid=GKRDTCY1PBCM&keywords=LIAN%2BLI%2BLANCOOL&qid=1644713868&sprefix=%2Caps%2C160&sr=8-1&th=1)
  
 </details>
+
+## Quick facts 💣
+
+🔫 Secretly I would like to work on a military project.
+
+😑 I like math, even if the school system in Italy manages to make everyone hate it.
+
+👯‍♂️ I work with [IsTk0](https://github.com/IsTk0) and [Hemerale](https://github.com/hemeraleback), together we have created a company called **Aronky Development!**
+
+🛫 I love aviation and would like to take the [Private Pilot License (PPL)](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)!
+
+🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
+
+🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
+
 <!--
 **AronkyDev/AronkyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
