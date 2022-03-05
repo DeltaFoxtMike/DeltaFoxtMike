@@ -8,7 +8,6 @@
 I am a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), I am interested in Web Design but also in programming with C and its derivatives, I also do automatic [Forex Trading](https://en.wikipedia.org/wiki/Foreign_exchange_market) with Bots scripted in [MQL4](https://docs.mql4.com).
 
 On this profile I will post all the [exercises](https://github.com/AronkyDev/School) we do at school (they are ✨ very simple ✨) and also my personal projects.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronkydev&layout=compact&theme=radical)](https://github.com/aronkydev)
 
 <details>
 <summary> 
@@ -49,3 +48,4 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
 
 🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronkydev&layout=compact&theme=radical)](https://github.com/aronkydev)
