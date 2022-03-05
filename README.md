@@ -1,4 +1,4 @@
-<h1 align="center"> Yoo! Marco Here! 👋🏻 <a target="_blank" href="https://discord.gg/rFqv9DHtdz"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+# Yoo! Marco Here! 👋🏻 <a target="_blank" href="https://discord.gg/rFqv9DHtdz"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 > I am a computer science student and will post all my lessons and scripts along with explanations!
 > If you need help or want to do a project contact me!
