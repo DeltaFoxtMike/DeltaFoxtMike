@@ -49,4 +49,7 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 
 🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
 
+## Github Stats ✨
+![AronkyDev Github Stats](https://github-readme-stats.vercel.app/api?username=aronkydev&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronkydev&layout=compact&theme=radical)](https://github.com/aronkydev)
