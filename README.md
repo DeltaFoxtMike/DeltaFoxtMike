@@ -38,7 +38,7 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 ## ✨Github Stats
 ![AronkyDev Github Stats](https://github-readme-stats.vercel.app/api?username=aronkydev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronkydev&layout=compact&theme=radical)](https://github.com/xnotro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronkydev&layout=compact&theme=radical)](https://github.com/aronkydev)
 
 ## Quick facts 💣
 
