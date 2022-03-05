@@ -35,6 +35,11 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
  
 </details>
 
+## ✨Github Stats
+![AronkyDev Github Stats](https://github-readme-stats.vercel.app/api?username=aronkydev&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronkydev&layout=compact&theme=radical)](https://github.com/xnotro)
+
 ## Quick facts 💣
 
 🔫 Secretly I would like to work on a military project.
@@ -48,18 +53,3 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
 
 🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
-
-<!--
-**AronkyDev/AronkyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
