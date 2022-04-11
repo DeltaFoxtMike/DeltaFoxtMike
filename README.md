@@ -48,7 +48,7 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 
 ## Quick facts 💣
 
-🔫 Secretly I would like to work on a [military project](https://istk0.github.io/AR127/)
+🔫 Secretly I would like to work on a [military project](https://istk0.github.io/AR127/).
 
 😑 I like math, even if the school system in Italy manages to make everyone hate it.
 
