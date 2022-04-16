@@ -16,9 +16,9 @@ My Stats ✨
 </summary>
 <br>
  
-![AronkyDev Github Stats](https://github-readme-stats.vercel.app/api?username=aronkydev&show_icons=true&theme=dark)
+![AronkyDev Github Stats](https:///github-readme-stats.vercel.app/api?username=aronkydev&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aronkydev&layout=compact&theme=dark)](https://github.com/aronkydev)
+[![Top Langs](https:///github-readme-stats.vercel.app/api/top-langs/?username=aronkydev&layout=compact&theme=dark)](https://github.com/aronkydev)
 </details>
 
 <details>
