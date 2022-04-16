@@ -54,7 +54,7 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 
 😑 I like math, even if the school system in Italy manages to make everyone hate it.
 
-👯‍♂️ I created together with [IsTk0](https://github.com/istk0) [(visit his site)](https://istk0.github.io/) a company called **[Aronky Technologies](github.com/aronkytechnologies)**!
+👯‍♂️ I created together with [IsTk0](https://github.com/istk0) [(visit his site)](https://istk0.github.io/) a company called **[Aronky Technologies](https://github.com/AronkyTechnologies)**!
 
 🛫 I love aviation and would like to take the [Private Pilot License (PPL)](https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html)!
 
