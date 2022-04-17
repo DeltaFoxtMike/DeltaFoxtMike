@@ -61,5 +61,3 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 🚗 I often listen to [Phonk](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) music, it should be more popular!
 
 🤖 Artificial Intelligence fascinates me, I would like to do some projects, but it requires a lot of effort.
-
-![Aronky Technologies](https://github.com/AronkyDev/aronkydev.github.io/blob/main/Logo%20Completo%20Tagliato.png)
