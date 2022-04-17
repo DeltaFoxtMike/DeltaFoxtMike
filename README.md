@@ -1,3 +1,5 @@
+![Aronky Technologies](https://github.com/AronkyDev/aronkydev.github.io/blob/main/Logo%20Completo%20Tagliato.png)
+
 # Yoo! Marco Here! 👋🏻 <a target="_blank" href="https://discord.gg/rFqv9DHtdz"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 > I am a computer science student and will post all my lessons and scripts along with explanations!
