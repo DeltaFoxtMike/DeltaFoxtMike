@@ -1,4 +1,4 @@
-# Yoo! Marco Here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"> <a target="_blank" href="https://discord.gg/rFqv9DHtdz"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+# Yoo! Marco Here!👋</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 > I am a computer science student and will post all my lessons and scripts along with explanations!
 > If you need help or want to do a project contact me!
