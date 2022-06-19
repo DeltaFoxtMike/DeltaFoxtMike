@@ -50,7 +50,7 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 
 🔫 Secretly I would like to work on a [military project](https://it.wikipedia.org/wiki/AgustaWestland_AW129).
 
-😑 ~~I like math, even if the school system in Italy manages to make everyone hate it.~~ I was joking, i hate math.
+😑 I like math, even if the school system in Italy manages to make everyone hate it.
 
 👯‍♂️ I created together with [IsTk0](https://github.com/istk0) [(visit his site)](https://istk0.github.io/) a company called **[Aronky Technologies](https://github.com/AronkyTechnologies)**!
 
