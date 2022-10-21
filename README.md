@@ -8,7 +8,7 @@
 ### 🏆 Finalist in the [Italian Robotics Olympics](https://www.olimpiadirobotica.it) (Together with [IsTk0](https://github.com/IsTk0)) 🏆
 I am a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), I am interested in Web Design but also in programming with [C](https://en.wikipedia.org/wiki/C_(programming_language)) and its [derivatives](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages), I also like to create [Artificial Intelligences](https://en.wikipedia.org/wiki/Artificial_intelligence).
 
-On this profile I will post all the [exercises](https://github.com/AronkyDev/School) we do at school (they are ✨ very simple ✨) and also my personal projects.
+On this profile I will post all the [exercises](https://github.com/AronkyDev/School) we do at school and also my personal projects.
 
 <details>
 <summary> 
