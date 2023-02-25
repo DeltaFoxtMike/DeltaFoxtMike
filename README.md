@@ -6,9 +6,10 @@
 ## About me 🧐 
 
 ### 🏆 Finalist in the [Italian Robotics Olympics 2022](https://www.olimpiadirobotica.it) (Together with [IsTk0](https://github.com/IsTk0)) 🏆
-I am a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), I am interested in Web Design but also in programming with [C](https://en.wikipedia.org/wiki/C_(programming_language)) and its [derivatives](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages), I also like to create [Artificial Intelligences](https://en.wikipedia.org/wiki/Artificial_intelligence).
+I'm a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), initially I worked a lot on [Web Design](https://en.wikipedia.org/wiki/Web_design), but now I've (happily) moved to [compiled math languages](https://www.codecademy.com/resources/blog/best-programming-languages-for-math/), even if for a lot of projects I use my beloved [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and [Jupyter Notebooks](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook).
+I work daily on multiple projects involving [Robotic Engineering](https://en.wikipedia.org/wiki/Robotics), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Experimental Healthcare](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/experimental-medicine/#:~:text=Experimental%20medicine%20is%20a%20broad,of%20new%20discoveries%20or%20treatments.).
 
-On this profile I will post all the [exercises](https://github.com/AronkyDev/School) we do at school and also my personal projects.
+As you may have noticed I am also very interested in [General Aviation](https://en.wikipedia.org/wiki/General_aviation) and in fact I am getting my [Private Pilot License (PPL)](https://en.wikipedia.org/wiki/Private_pilot_licence). I am also very interested in [Algorithmic Trading](https://en.wikipedia.org/wiki/Algorithmic_trading) of [CFDs](https://en.wikipedia.org/wiki/Contract_for_difference) and [Real Estate Investments](https://en.wikipedia.org/wiki/Real_estate_investing).
 
 <details>
 <summary> 
@@ -31,7 +32,7 @@ CPU: [Ryzen 7 3800X](https://www.amazon.com/AMD-Ryzen-3800X-16-Thread-Processor/
 
 MOBO: [Asus TUF X570 Plus](https://www.amazon.com/ASUS-TUF-X570-Plus-Motherboard-Lighting/dp/B07SXF8GY3/ref=sr_1_1?crid=3OUAWV5M1RGPI&keywords=Asus+TUF+X570+Plus&qid=1644713711&sprefix=asus+tuf+x570+plus%2Caps%2C183&sr=8-1)
 
-VGA: ~~RTX 3080~~ (When will I find it?)
+VGA: ~~RTX 3080~~ (Looking for other options)
 
 RAM: [DDR4 32GB 3600MHz](https://www.amazon.com/Corsair-Vengeance-PC4-28800-Desktop-Memory/dp/B07ZPLM1R1/ref=sr_1_3?crid=B6JR5012P7WY&keywords=DDR4+32GB+3600MHz&qid=1644713741&sprefix=%2Caps%2C159&sr=8-3)
 
