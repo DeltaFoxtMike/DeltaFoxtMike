@@ -1,4 +1,4 @@
-# Yoo! Marco Here!👋</a>&nbsp;&nbsp;&nbsp;&nbsp;
+# Yoo! Marco Here!👋🏻</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 > I am a computer science student, i mainly work on private projects, that's because you see very few repos!
 > Anyway, if you want to collaborate with me or my team feel free to reach out :)
