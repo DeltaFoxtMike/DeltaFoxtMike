@@ -9,16 +9,8 @@
 I'm a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), initially I worked a lot on [Web Design](https://en.wikipedia.org/wiki/Web_design), but now I've (happily) moved to [Compiled Math Languages](https://www.codecademy.com/resources/blog/best-programming-languages-for-math/), even if for a lot of projects I use my beloved [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and [Jupyter Notebooks](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook).
 I work daily on multiple projects involving [Robotic Engineering](https://en.wikipedia.org/wiki/Robotics), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Experimental Healthcare](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/experimental-medicine/#:~:text=Experimental%20medicine%20is%20a%20broad,of%20new%20discoveries%20or%20treatments.).
 
+## My Interests 🛫
 As you may have noticed I am also very interested in [General Aviation](https://en.wikipedia.org/wiki/General_aviation) and in fact I am getting my [Private Pilot License (PPL)](https://en.wikipedia.org/wiki/Private_pilot_licence). I am also very interested in [Algorithmic Trading](https://en.wikipedia.org/wiki/Algorithmic_trading) of [CFDs](https://en.wikipedia.org/wiki/Contract_for_difference) and [Real Estate Investments](https://en.wikipedia.org/wiki/Real_estate_investing).
-
-<details>
-<summary> 
-My Stats ✨
-</summary>
-<br>
-<a href="http://www.github.com/AronkyDev"><img src="https://github-readme-stats.vercel.app/api?username=AronkyDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AronkyDev's GitHub stats" /></a>
-<a href="http://www.github.com/AronkyDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AronkyDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</details>
 
 <details>
 <summary> 
