@@ -42,7 +42,7 @@ CASE: [LIAN LI LANCOOL](https://www.amazon.com/Lian-Li-LAN2MRX-LANCOOL-Black/dp/
 
 🔤 I have an very good level of English (I have to talk about my projects at international events, I have no choice!), this year I plan to achieve B2.
 
-🔫 I would love to work on a [Military Project](https://it.wikipedia.org/wiki/AgustaWestland_AW129).
+🔫 I would love to work on a [Military Project](https://it.wikipedia.org/wiki/AgustaWestland_AW129), they have that unique vibe...
 
 ♟️ I am a [Chess Grandmaster](https://en.wikipedia.org/wiki/Grandmaster_(chess)). Just joking, but i really like Chess!
 
