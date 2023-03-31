@@ -5,7 +5,7 @@
 
 ## About me 🧐 
 
-### 🏆 Finalist in the [Italian Robotics Olympics 2022]([https://www.olimpiadirobotica.it](https://www.miur.gov.it/-/olimpiadi-di-robotica-proclamati-i-progetti-vincitori-la-premiazione-a-didacta-il-21-maggio)) (Together with [IsTk0](https://github.com/IsTk0)) 🏆
+### 🏆 Finalist in the [Italian Robotics Olympics 2022]([https://www.olimpiadirobotica.it](https://www.miur.gov.it/-/olimpiadi-di-robotica-proclamati-i-progetti-vincitori-la-premiazione-a-didacta-il-21-maggio) (Together with [IsTk0](https://github.com/IsTk0)) 🏆
 I'm a high school student in [Italy](https://en.wikipedia.org/wiki/Italy), initially I worked a lot on [Web Design](https://en.wikipedia.org/wiki/Web_design), but now I've (happily) moved to [Compiled Math Languages](https://www.codecademy.com/resources/blog/best-programming-languages-for-math/), even if for a lot of projects I use my beloved [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and [Jupyter Notebooks](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook).
 I work daily on multiple projects involving [Robotic Engineering](https://en.wikipedia.org/wiki/Robotics), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Experimental Healthcare](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/experimental-medicine/#:~:text=Experimental%20medicine%20is%20a%20broad,of%20new%20discoveries%20or%20treatments.).
 
